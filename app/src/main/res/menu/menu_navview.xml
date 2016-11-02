@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_createlist"
+            android:icon="@drawable/book_open_variant"
+            android:title="@string/create_list" />
+        <item
+            android:id="@+id/item_assitence"
+            android:icon="@drawable/account_check"
+            android:title="@string/assistance" />
+
+    </group>
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_setting"
+            android:icon="@drawable/settings"
+            android:title="@string/setting" />
+        <item
+            android:id="@+id/item_help"
+            android:icon="@drawable/help_circle"
+            android:title="@string/help" />
+        <item
+            android:id="@+id/item_about"
+            android:icon="@drawable/information"
+            android:title="@string/about" />
+    </group>
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_signout"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+    </group>
+
+</menu>

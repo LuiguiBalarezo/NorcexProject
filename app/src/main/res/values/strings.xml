@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NorcexProject</string>
+    <string name="type">com.toquescript.www.norcexproject</string>
+    <string name="label">NorcexProject</string>
+    <string name="action_settings">action_settings</string>
+    <string name="usuario">Usuario</string>
+    <string name="seccion_1">seccion_1</string>
+    <string name="seccion_2">seccion_2</string>
+    <string name="seccion_3">seccion_3</string>
+    <string name="otras_opciones">otras_opciones</string>
+    <string name="opcion_1">opcion_1</string>
+    <string name="opcion_2">opcion_2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_list">Crear Lista</string>
+    <string name="assistance">Asistencias</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="modulos">Modules</string>
+    <string name="config">Configuration</string>
+    <string name="modules">Modules</string>
+    <string name="logout">Logout</string>
+    <string name="Tools">Herramientas</string>
+    <string name="materials">Materiales</string>
+    <string name="epps">epps</string>
+    <string name="action_search">Search</string>
+    <string name="view_list">View list</string>
+</resources>
